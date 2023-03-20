@@ -20,6 +20,6 @@
 
 3. 혹은 PowerShell을 실행, wsl -l -o로 설치할 수 있는 linux 배포판을 확인합니다.
 - 설치할 수 있는 linux 배포판들의 정보가 표시됩니다.
+ ![우분타1](https://user-images.githubusercontent.com/122597068/226286548-d057b238-7bf4-4ecd-a42b-657438019f6c.png)
  
-
 4. 
