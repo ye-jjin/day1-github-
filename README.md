@@ -26,6 +26,6 @@
 
 5. 재부팅후, 우분투를 실행합니다.
 
-6. username/password / retype password 를 설정합니다.
+6. username/password/retype password를 설정합니다.
 
 7. wsl2를 이용한 linux가 설치됩니다.
