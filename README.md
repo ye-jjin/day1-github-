@@ -26,6 +26,8 @@
 4. wsl -install로 기본적인 리눅스 배포판인 우분투를 설치합니다.
 - 뒤에 -d 옵션을 변경해서 다른 버전도 설치가 가능합니다.
 
+![우분타2](https://user-images.githubusercontent.com/122597068/226288295-8bc70790-b206-470e-bacc-8da7071fad8a.png)
+
 5. 재부팅후, 우분투를 실행합니다.
 
 6. 
